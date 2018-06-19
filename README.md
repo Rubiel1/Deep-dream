@@ -1,4 +1,7 @@
 # Deep-dream
+
+https://github.com/Rubiel1/Deep-dream/blob/master/DeepDream.ipynb
+
 My Jupyter Notebook presentation for the FSU machine learning seminar on Deep Dreams.
 
 I took ideas from different sources.
